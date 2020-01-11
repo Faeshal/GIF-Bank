@@ -2,7 +2,7 @@
 ### Simple app for throwing GIF on your face
 ![https://img.shields.io/badge/Giphy-API-green](https://img.shields.io/badge/Giphy-API-green) ![https://img.shields.io/badge/status-testing-lightgrey](https://img.shields.io/badge/status-testing-lightgrey)
 
-![https://media.giphy.com/media/gkR6Lrhi6aLckM0mGU/giphy.gif](https://media.giphy.com/media/gkR6Lrhi6aLckM0mGU/giphy.gif)
+![img](https://i.postimg.cc/3wX08B7K/gif-bank.png)
 
 🎖 Part Of - [Javascript http request](https://faeshal.com/post/http_request) 
 
